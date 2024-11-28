@@ -1,0 +1,42 @@
+/* Estilo global */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+/* Cabeçalho */
+header {
+    background-color: #057977;
+    color: white;
+    padding: 2px;
+    text-align: center;
+}
+
+/* Seções */
+section {
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+    background: none; /* Remove o fundo */
+}
+
+
+/* Links */
+a {
+    color: #057977;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Listas */
+ul {
+    list-style: disc;
+    margin-left: 20px;
+}
